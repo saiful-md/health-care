@@ -26,11 +26,10 @@ const Contact = () => {
 								<p>Gazipur, Dhaka, Bangladesh</p>
 							</div>
 							<div>
-								<h4>+889 555 666 80</h4>
-								<p>Saturday to wednessday</p>
+								<h4>+885 66 83 444</h4>
 							</div>
 							<div>
-								<h4>shobujuddan@university.com</h4>
+								<h4>Shobujuddan.medical@hospital.com</h4>
 								<p>Email us for online service</p>
 							</div>
 						</Col>
